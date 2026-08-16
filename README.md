@@ -921,8 +921,8 @@ Edit the web page:
 vim /var/www/html/index.html
 ```
 > For a real CI/CD workflow, do not manually modify running Pods. Make changes in GitHub and let Jenkins redeploy the application.
----
-36. Security Best Practices
+---**
+36. Security Best Practices**
 This project is designed as a learning/lab project. Before using it in production:
 Do not commit AWS credentials to GitHub.
 Do not commit Docker Hub passwords.
@@ -989,7 +989,7 @@ LoadBalancer
         ↓
 Web Application
 ```
----
+---**
 ⭐ Skills Demonstrated
 ```text
 AWS
@@ -1008,9 +1008,9 @@ Linux
 Apache
 CI/CD
 Rolling Deployment
-AWS CLI
+AWS CLI**
 ```
 ---
-👨‍💻 Author
+**👨‍💻 Author
 Rohit Satpute
-AWS | Cloud | DevOps | Kubernetes
+AWS | Cloud | DevOps | Kubernetes**
