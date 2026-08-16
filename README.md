@@ -1,7 +1,7 @@
 **K8S DevOps Project – AWS EKS CI/CD Pipeline
 📌 Project Overview**
-This project demonstrates an end-to-end DevOps CI/CD pipeline for deploying a web application to Amazon EKS (Elastic Kubernetes Service).
-The workflow is:
+**This project demonstrates an end-to-end DevOps CI/CD pipeline for deploying a web application to Amazon EKS (Elastic Kubernetes Service).
+The workflow is:**
 ```text
 Developer
    ↓
