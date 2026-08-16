@@ -711,8 +711,8 @@ pipeline {
 ```
 Replace these values
 ```text
-**Docker usernae - rohitsatpute45**
-**Github username - rohitsatpute627-pixel**
+Docker usernae - rohitsatpute45
+Github username - rohitsatpute627-pixel
 ```
 with your actual usernames.
 ---
